@@ -30,7 +30,7 @@ Refresh and boom! changes applied :D
 
 QTip: Tip: Use a geocoder to find coordinates, e.g., Open‑Meteo’s geocoding or OpenWeather’s geocoding API.
 
-V2 changelog:
+## V2 changelog:
 Now we can search for our desired city/state or country just by a simple openWeatherDescription string that automatically fetches the input from the desired location given by the user. No manual backend hassle.
 
 Calendar changelog:
@@ -50,7 +50,7 @@ Each cell is 80px height with proper spacing
 Border separators between all cells
 This gives you the exact table/row/column structure you'll need for the backend events later! 
 
-v3 changelog:
+## v3 changelog:
 Now connected with backend! 
 All my backend data works from server.js. This includes Authentication, Routing, Database Management and JWT
 Aside from that, we have multiple new dependencies such as "@types/bcrypt": "^6.0.0", 2 new api keys 
